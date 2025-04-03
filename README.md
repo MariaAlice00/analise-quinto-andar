@@ -8,6 +8,5 @@
 <h2>Conteúdo</h2>
 <ul>
     <li><strong>Exploração dos dados</strong>: Limpeza e tratamento das informações.</li>
-    <li><strong>Análises estatísticas</strong>: Distribuições, correlações e tendências de preços.</li>
     <li><strong>Visualizações</strong>: Gráficos e mapas para facilitar a interpretação dos dados.</li>
 </ul>
